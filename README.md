@@ -55,7 +55,7 @@
     </td>
   </tr>
 </table>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aysuarex&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TheGeminiLordx&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
 
 <p align="right"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img src="https://komarev.com/ghpvc/?username=BlezynUkatux&label=Profile%20views&color=0e75b6&style=flat" alt="BlezynUkatu" /> </p>
 
