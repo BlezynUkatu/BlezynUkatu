@@ -1,4 +1,4 @@
-### Hi there 👋
+### HOLLA, HELLO, HI THERE 👋
 <!--!
 <h1 align="center">Hi <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">, I'm Blessing O. Ukatu</h1>
 <h3 align="center">A passionate Software Engineer and Data Analyst from Nigeria</h3>
