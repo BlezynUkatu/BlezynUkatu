@@ -1,14 +1,9 @@
 ### Hi there 👋
-
+<!--!
 <h1 align="center">Hi <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">, I'm Blessing O. Ukatu</h1>
 <h3 align="center">A passionate Software Engineer and Data Analyst from Nigeria</h3>
 <!--<img align= "right" alt="Coding" width="375" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">-->
 
-
-<!--
-**BlezynUkatu/BlezynUkatu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 <table>
   <tr>
