@@ -52,4 +52,24 @@ Here are some ideas to get you started:
     <td>
        <a href="https://github.com/BlezynUkatu"><img alt="Blessing O. Ukatu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BlezynUkatux&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
     </td>
+<td>
+       <a href="http://www.github.com/BlezynUkatu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BlezynUkatux&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/BlezynUkatu"><img alt="Blessing O. Ukatu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlezynUkatux&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
+    </td>
+  </tr>
+</table>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aysuarex&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+
+<p align="right"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img src="https://komarev.com/ghpvc/?username=BlezynUkatux&label=Profile%20views&color=0e75b6&style=flat" alt="BlezynUkatu" /> </p>
+
+<!--
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BlezynUkatux&show_icons=true&locale=en&layout=compact" alt="BlezynUkatu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BlezynUkatux&show_icons=true&locale=en" alt="BlezynUkatu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BlezynUkatux&" alt="BlezynUkatu" /></p>
+-->
+
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BlezynUkatu" alt="BlezynUkatu" /></a> </p>-->
+
 -->
